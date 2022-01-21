@@ -1,4 +1,3 @@
-<img width="25%" src="https://i.pinimg.com/originals/96/6e/ac/966eacce964aa8003d6eb07d03c71342.gif" />
 <h2 align="left">Hello! my name is Rafael, I'm a begginer FullStack Developer from Brazil</h2>
 
 <p style="display: flex; align-items: center; justify-content: space-around">
